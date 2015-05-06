@@ -25,5 +25,5 @@ I've written a bunch of cool things to get this module running as I want it to, 
 If you're looking for something else (or write your own firmware), have a look at http://esp8266.com for more resources.
 
 # Modifying
-You can open the .sch and .brd files in Eagle (V7.2+), and make any modifications you see fit. If you add something cool, please create a pull request so we can bring the awesomeness into$
+You can open the .sch and .brd files in Eagle (V7.2+), and make any modifications you see fit. If you add something cool, please create a pull request so we can bring the awesomeness into the community!
 
