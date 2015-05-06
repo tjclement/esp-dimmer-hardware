@@ -1,8 +1,8 @@
 # ESP8266 WiFi LED Dimmer
 Custom hardware designs for a super tiny WiFi LED dimmer module based on the ESP8266, to control your lights from any device. If you like this, please give it a star!
 
-![alt tag](https://github.com/tjclement/esp-dimmer-hardware/blob/master/images/front.png)
-![alt tag](https://github.com/tjclement/esp-dimmer-hardware/blob/master/images/back.png)
+<img width="40%" src="https://github.com/tjclement/esp-dimmer-hardware/blob/master/images/front.png" />
+<img width="40%" src="https://github.com/tjclement/esp-dimmer-hardware/blob/master/images/back.png" />
 
 # Order
 Send all files in /gerber_files/5x5/ to your PCB house, and all should be fine and dandy!
