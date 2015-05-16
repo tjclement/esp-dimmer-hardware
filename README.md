@@ -3,6 +3,7 @@ Custom hardware designs for a super tiny WiFi LED dimmer module based on the ESP
 
 ![alt tag](https://github.com/tjclement/esp-dimmer-hardware/blob/master/images/front.png)
 ![alt tag](https://github.com/tjclement/esp-dimmer-hardware/blob/master/images/back.png)
+![alt tag](https://github.com/tjclement/esp-dimmer-hardware/blob/master/images/first_preview.JPG)
 
 # Order
 Send all files in /gerber_files/5x5/ to your PCB house, and all should be fine and dandy!
