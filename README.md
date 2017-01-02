@@ -75,7 +75,7 @@ If you're looking for something else (or write your own firmware), have a look a
 
 You can use a loader like this one to load firmware onto the ESP: https://github.com/themadinventor/esptool.
 
-# Modifying
+# Contributing
 You can open the .sch and .brd files in Eagle (V7.2+), and make any modifications you see fit. If you add something cool, please create a pull request so we can bring the awesomeness into the community!
 
 # Credits
