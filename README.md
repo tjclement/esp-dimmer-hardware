@@ -14,6 +14,8 @@ __Update:__ The new module design for RGB (i.e. triple channel) LEDs is done. Th
 # Ordering the board
 Choose whether you want a single or triple channel dimmer, and then send all files in [single_channel or triple_channel]/gerber_files/ to your PCB house, and all should be fine and dandy!
 
+You can also order the new triple channel design from DirtyPCBs here: http://dirtypcbs.com/store/designer/details/tjclement/1218/esp12-led-improved-zip
+
 # Parts
 After having ordered the print board, you're going to want to have these parts for every module (mind you, there's two panelized modules per board ordered!):
 <table>
