@@ -16,14 +16,48 @@ Choose whether you want a single or triple channel dimmer, and then send all fil
 
 # Parts
 After having ordered the print board, you're going to want to have these parts for every module (mind you, there's two panelized modules per board ordered!):
-| Single Channel (old version) |                                       | Triple Channel (new version) |                                         |
-|----------------|---------------------------------------|----------------|-----------------------------------------|
-| Amount         | Description                           | Amount         | Description                             |
-| 1              | ESP8266, ESP-12(E) format             | 1              | ESP8266, ESP-12(E) format               |
-| 1              | XM1584 Power converter (set to 3.3v!) | 1              | MP2307 MINI 360 Power converter (3.3v!) |
-| 1              | FDS8896 PowerTrench MOSFET            | 3              | FDS8896 PowerTrench MOSFET              |
-| 2              | KF350-2P screw terminal blocks        | 4              | KF350-2P screw terminal blocks          |
-| 4              | 10k resistors, 0603 format            | 6              | 10k resistors, 0603 format              |
+<table>
+  <tr>
+    <td colspan="2"><strong>Single Channel (old version)</strong></td>
+    <td colspan="2"><strong>Triple Channel (new version)</strong></td>
+  </tr>
+  <tr>
+    <td>Amount</td>
+    <td>Description</td>
+    <td>Amount</td>
+    <td>Description</td>
+  </tr>
+  <tr>
+    <td>1</td>
+    <td>ESP8266, ESP-12(E) format</td>
+    <td>1</td>
+    <td>ESP8266, ESP-12(E) format</td>
+  </tr>
+  <tr>
+    <td>1</td>
+    <td>XM1584 Power converter (set to 3.3v!)</td>
+    <td>1</td>
+    <td>MP2307 MINI 360 Power converter (3.3v!)</td>
+  </tr>
+  <tr>
+    <td>1</td>
+    <td>FDS8896 PowerTrench MOSFET</td>
+    <td>3</td>
+    <td>FDS8896 PowerTrench MOSFET</td>
+  </tr>
+  <tr>
+    <td>2</td>
+    <td>KF350-2P screw terminal blocks</td>
+    <td>4</td>
+    <td>KF350-2P screw terminal blocks</td>
+  </tr>
+  <tr>
+    <td>4</td>
+    <td>10k resistors, 0603 format</td>
+    <td>6</td>
+    <td>10k resistors, 0603 format</td>
+  </tr>
+</table>
 
 __Total cost: less than $5!__
 
