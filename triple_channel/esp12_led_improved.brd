@@ -100,8 +100,6 @@ v2.0rev1
 github.com/tjclement</text>
 <wire x1="50" y1="37" x2="50" y2="23.4" width="0" layer="20"/>
 <wire x1="50" y1="11.8" x2="50" y2="0" width="0" layer="20"/>
-<wire x1="50" y1="11.8" x2="50.7" y2="11.8" width="0" layer="20" curve="-163.739795"/>
-<wire x1="50.7" y1="23.4" x2="50" y2="23.4" width="0" layer="20" curve="-180"/>
 <text x="26.5" y="13.1" size="0.6096" layer="25" rot="R90" align="bottom-center">IN</text>
 <text x="26.5" y="16.3" size="0.6096" layer="25" rot="R90" align="bottom-right">GND</text>
 <text x="26.5" y="9.9" size="0.6096" layer="25" rot="R90">12V</text>
